@@ -1,5 +1,5 @@
-# Simple-Atm-machine
-This my first learning with Github
+# Simple-ATM-Machine
+This is my first learning with Github
 
 import java.util.*;
 class ATM   
