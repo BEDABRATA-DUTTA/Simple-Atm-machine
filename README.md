@@ -32,8 +32,8 @@ class ATM
         if(pin_no[j]==b)
         n2=j;
     }
-    
-    if(n1==n2) // operation 1
+    ////////////////////////////////////////////////////////////////////////////// operation 1
+    if(n1==n2) 
         {
             System.out.println("Press 1 For -> Check Account Balance");
             System.out.println("Press 2 For -> Deposit");
